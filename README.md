@@ -48,7 +48,7 @@
 
 ---
 
-### 🤖 AI 기반 이커머스 플랫폼 (개인 프로젝트)  [repo](https://github.com/zzichu/ecommerce)
+### 🤖 AI 기반 이커머스 플랫폼 [repo](https://github.com/zzichu/ecommerce)
 > Java · Spring Boot · FastAPI · LangChain · Chroma
 
 - LLM RAG 파이프라인 및 Text-to-SQL 구현
